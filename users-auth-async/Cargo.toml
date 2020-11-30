@@ -22,4 +22,3 @@ actix-service = "1.0.1"
 alcoholic_jwt = "1.0.0"
 reqwest = "0.9.22"
 actix-rt = "1.0.0"
-openssl = { version = "0.10", features = ["vendored"] }
